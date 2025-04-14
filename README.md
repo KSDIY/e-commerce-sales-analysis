@@ -10,41 +10,21 @@ Tools Used
 - Power BI
 - GitHub for version control and presentation
 
-Data Sources
-
-Synthetic dataset generated with dummy e-commerce transaction data (orders, product category, revenue, return status, etc.)
+Data Sources: Kaggle 
 
 
 Key Insights
-
-- Top 5 selling products by revenue
-- Regions with highest returns
-- Month-on-month growth
-- Sales vs. returns comparison
-- Recommendations to reduce product return rate
-
-
-
-Files Included
-
-- `data/sales_data.xlsx`: Raw and cleaned sales data
-- `dashboard/sales_dashboard.pbix`: Power BI dashboard
-- `notebooks/data_cleaning_steps.xlsx`: Excel cleaning logic
-- `docs/project_report.pdf`: Full documentation report
-- `docs/insights_summary.md`: Key takeaways
-
+ -Total Sales
+ -Monthly sales 
+ -Sales by region
+ -Top Selling Categories
+ -Return rate analysis
 
 
 ## Outcomes
 
 - Business understanding of which product categories contribute the most to revenue
 - Identification of pain points like return-heavy categories
-- Actionable recommendations for sales optimization
-
----
-
-## Dashboard Preview
-![Dashboard Screenshot](dashboard/screenshots/sales_summary.png)
 
 
 ## Author
